@@ -1,0 +1,5 @@
+my:
+  greeting: Hello World from Waynes world!
+  list: test list from WL
+db:
+  connection: test-connection-string
